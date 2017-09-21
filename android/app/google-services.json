@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "631024875915",
+    "project_id": "firebase-cnkapp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631024875915:android:9e8354670d4162f6",
+        "android_client_info": {
+          "package_name": "com.cnk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631024875915-naioq4q0a5q14uav7hs5ffm2ut7j8br9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cnk",
+            "certificate_hash": "c38844c0512760d9951bf8335f2f8c3b6a83b9df"
+          }
+        },
+        {
+          "client_id": "631024875915-mkbjoclt18aag9fhbuj2j0g9a1c7cgv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl6NFg3XA9x7NfLfrHFh0ZVTuJb50qVbs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
